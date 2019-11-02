@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-include device/qcom/sepolicy-legacy/sepolicy.mk
+include device/qcom/sepolicy-legacy-um/sepolicy.mk
 
 # Board specific SELinux policy variable definitions
 BOARD_SEPOLICY_DIRS += \
